@@ -108,7 +108,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Nexus-ai* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to Horla-ai* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
