@@ -31,8 +31,8 @@ zokou({
   });
   moment.tz.setDefault("Etc/GMT");
   const _0x30b447 = moment().format("DD/MM/YYYY");
-  let _0x5810f6 = "\n╭━━✧★☞  𝐍𝐄𝐗𝐔𝐒-𝐀𝐈  😾💜✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : PK Driller\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : NEXUS-AI\n┊   └────••••────⊷\n╰━━━••✧NEXUS-AI✧••━━━◆\n";
-  let _0x499730 = "𝐍𝐄𝐗𝐔𝐒 𝐀𝐈 𝐌𝐄𝐍𝐔";
+  let _0x5810f6 = "\n╭━━✧★☞  𝐇𝐎𝐑𝐋𝐀-𝐀𝐈  😾💜✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : horlapookie\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : NEXUS-AI\n┊   └────••••────⊷\n╰━━━••✧𝐇𝐎𝐑𝐋𝐀-AI✧••━━━◆\n";
+  let _0x499730 = "𝐇𝐎𝐑𝐋𝐀 𝐀𝐈 𝐌𝐄𝐍𝐔";
   for (const _0x297db1 in _0x4b68cd) {
     _0x499730 += "\n╭━━━❂ *" + _0x297db1 + "* ❂━━─••\n║╭━━══••══━━••⊷ ";
     for (const _0x38505c of _0x4b68cd[_0x297db1]) {
@@ -40,7 +40,7 @@ zokou({
     }
     _0x499730 += "\n║╰━━══••══━━••⊷\n╰════────════◆◆◆";
   }
-  _0x499730 += "\n> @NEXUS AI\n";
+  _0x499730 += "\n> @𝐇𝐎𝐑𝐋𝐀 AI\n";
   try {
     await _0x35dd19.sendMessage(_0x466846, {
       'text': _0x5810f6 + _0x499730,
@@ -48,14 +48,14 @@ zokou({
         'forwardingScore': 0x3e7,
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363288304618280@newsletter",
+          'newsletterJid': "120029vb6azry2f3emgd8krq01@newsletter",
           'newsletterName': "NEXUS-AI",
           'serverMessageId': 0x8f
         },
         'externalAdReply': {
-          'title': "NEXUS AI",
+          'title': "HORLA AI",
           'body': "Tap to join the official channel",
-          'thumbnailUrl': "https://files.catbox.moe/q99uu1.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/y6do01.jpeg",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
         }
