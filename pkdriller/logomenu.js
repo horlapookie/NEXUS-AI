@@ -70,10 +70,10 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🌟 NEXUS-AI ✨",
-        body: "pkdriller✨",
+        title: "🌟 HORLA-AI ✨",
+        body: "horlapookie✨",
         thumbnailUrl: "https://files.catbox.moe/pdhcob.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb6AZrY2f3EMgD8kRQ01",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
