@@ -11,8 +11,8 @@ const newsletterContext = {
     'forwardingScore': 0x3e7,
     'isForwarded': true,
     'forwardedNewsletterMessageInfo': {
-      'newsletterJid': "120363288304618280@newsletter",
-      'newsletterName': "𝐍𝐄𝐗𝐔𝐒-𝐀𝐈",
+      'newsletterJid': "120029vb6azry2f3emgd8krq01@newsletter",
+      'newsletterName': "YOURHIGHNESS",
       'serverMessageId': 0x1
     }
   }
@@ -34,10 +34,10 @@ zokou({
         'owner': _0x498987.owner.login
       };
       const _0x1ffe6b = new Date(_0x498987.created_at).toLocaleDateString("en-GB");
-      const _0x4ee1b4 = "*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n\n_________● *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈* ●____________\n|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* " + _0x498987.html_url + "\n|🌟 *sᴛᴀʀs:* " + _0x491941.stars + "\n|🍽 *ғᴏʀᴋs:* " + _0x491941.forks + "\n|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* " + _0x1ffe6b + "\n|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* " + _0x491941.lastUpdate + "\n|👨‍💻 *ᴏᴡɴᴇʀ:* *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n|💞 *ᴛʜᴇᴍᴇ:* *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*\n__________________________________\n            *ᴍᴀᴅᴇ ᴡɪᴛʜ 𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*";
+      const _0x4ee1b4 = "*𝐍𝐄𝐗𝐔𝐒-𝐀𝐈*\n\n_________● *𝐍𝐄𝐗𝐔𝐒-𝐀𝐈* ●____________\n|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* " + _0x498987.html_url + "\n|🌟 *sᴛᴀʀs:* " + _0x491941.stars + "\n|🍽 *ғᴏʀᴋs:* " + _0x491941.forks + "\n|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* " + _0x1ffe6b + "\n|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* " + _0x491941.lastUpdate + "\n|👨‍💻 *ᴏᴡɴᴇʀ:* *HORLAPOOKIE*\n|💞 *ᴛʜᴇᴍᴇ:* *HORLA-AI*\n|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*\n__________________________________\n            *ᴍᴀᴅᴇ ᴡɪᴛʜ HORLA-AI*";
       await _0xff3268.sendMessage(_0x3ebb47, {
         'image': {
-          'url': "https://files.catbox.moe/fwkkud.jpg"
+          'url': "https://files.catbox.moe/y6do01.jpeg"
         },
         'caption': _0x4ee1b4,
         ...newsletterContext
