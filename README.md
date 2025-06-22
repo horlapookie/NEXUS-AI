@@ -3,7 +3,7 @@
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+NEXUS+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+HORLA+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+HORLAPOOKIE🧬;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
