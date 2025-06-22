@@ -12,7 +12,7 @@ const moment = require("moment-timezone");
 const conf = require(__dirname + "/../set");
 
 const AUDIO_URL = "https://files.catbox.moe/mfhv0a.mp3"; // New audio URL
-const THUMBNAIL_URL = "https://files.catbox.moe/ts2az9.jpg"; // New image URL
+const THUMBNAIL_URL = "https://files.catbox.moe/x8g5tc.jpg"; // New image URL
 
 moment.tz.setDefault(`${conf.TZ}`);
 
@@ -39,7 +39,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
         forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363288304618280@newsletter',
+              newsletterJid: '120029vb6azry2f3emgd8krq01@newsletter',
               newsletterName: 'NEXUS-AI',
               serverMessageId: 143},
         externalAdReply: {
