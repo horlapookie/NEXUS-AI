@@ -135,7 +135,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ NEXUS-AI┗━━━┓
+┏━━━┛ HORLA-AI┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
