@@ -21,7 +21,7 @@ zokou({
                  `• *Name:* ${s.OWNER_NAME}\n` +
                  `• *Date:* ${date}\n` +
                  `• *Time:* ${temps}\n\n` +
-                 `> *Powered by PkDriller*`;
+                 `> *Powered by horlapookie*`;
 
   try {
     const mediaUrl = await mybotpic();
@@ -35,12 +35,12 @@ zokou({
           gifPlayback: true,
           contextInfo: {
             externalAdReply: {
-              title: `NEXUS-AI Deployer`,
+              title: `HORLA-AI Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 2,
-              mediaUrl: "https://files.catbox.moe/r1j72m.jpeg",
-              sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"
+              mediaUrl: "https://files.catbox.moe/pdhcob.jpeg",
+              sourceUrl: "https://whatsapp.com/channel/0029Vb6AZrY2f3EMgD8kRQ01"
             }
           }
         }, { quoted: ms });
@@ -56,7 +56,7 @@ zokou({
               thumbnailUrl: mediaUrl,
               mediaType: 1,
               mediaUrl: "https://files.catbox.moe/pdhcob.jpeg",
-              sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"
+              sourceUrl: "https://whatsapp.com/channel/0029Vb6AZrY2f3EMgD8kRQ01"
             }
           }
         }, { quoted: ms });
