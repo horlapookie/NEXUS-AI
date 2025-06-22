@@ -42,7 +42,7 @@ zokou({
   } = _0x20339c;
   const _0x5754a8 = await fetch("https://nekos.life/api/v2/fact");
   const _0x21e127 = await _0x5754a8.json();
-  _0x12e23a(" *NEXUS-AI FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©Pkdriller*\n\n╔═════◇\n║◇ *NEXUS-AI*\n╚════════════════════>  ");
+  _0x12e23a(" *HORLA-AI FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©HORLAPOOKIE*\n\n╔═════◇\n║◇ *NEXUS-AI*\n╚════════════════════>  ");
 });
 zokou({
   'nomCom': "quote",
