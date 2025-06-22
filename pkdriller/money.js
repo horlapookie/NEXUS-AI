@@ -35,10 +35,10 @@ const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
 1.\n> Recipient Name:** Benard wangari wachira  
-2.\n> Mobile Number:** 0785392165 (Airtel) 
+2.\n> Mobile Number:** 09122222622 (Airtel) 
 3.\n> Hello 👋\n${nomAuteurMessage}
 5.\n> Payment Method:** Online Payment  
-6.\n> Country:** Kenya 🇰🇪
+6.\n> Country:** Nigeria 🇳🇬
 `;
     
 let menuMsg = `
