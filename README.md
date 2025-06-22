@@ -1,4 +1,4 @@
-# NEXUS-AI 
+# HORLA-AI 
 
 <!-- Glowing Header -->
 
