@@ -98,7 +98,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI HOLY BIBLE",
+          title: "HORLA-AI HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -115,7 +115,7 @@ zokou({
         externalAdReply: {
           title: "Error Fetching Bible Passage",
           body: "Please try again later.",
-          thumbnailUrl: "https://files.catbox.moe/pdhcob.jpeg", // Replace with a suitable thumbnail URL
+          thumbnailUrl: "https://files.catbox.moe/y6do01.jpeg", // Replace with a suitable thumbnail URL
           sourceUrl: conf.GURL,
           mediaType: 1,
           showAdAttribution: true,
@@ -153,10 +153,10 @@ zokou({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "NEXUS-AI",
+            title: "HORLA-AI",
             body: `Definition of ${term}`,
             mediaType: 1,
-            thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
+            thumbnailUrl: "https://files.catbox.moe/x8g5tc.jpg", 
             sourceUrl: conf.GURL,
             showAdAttribution: true, 
           },
@@ -187,7 +187,7 @@ zokou({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Nexus-ai is getting your pair code 🍼✅...*";
+    const replyText = "*Horla-ai is getting your pair code 🍼✅...*";
     await repondre(replyText);
 
     // Prepare the API request
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI ELEMENT INFORMATION",
+          title: "HORLA-AI ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
