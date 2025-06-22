@@ -40,7 +40,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120029vb6azry2f3emgd8krq01@newsletter',
-              newsletterName: 'NEXUS-AI',
+              newsletterName: 'HORLA-AI',
               serverMessageId: 143},
         externalAdReply: {
           
@@ -55,7 +55,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
     }, { quoted: ms });
 
     await zk.sendMessage(dest, {
-        text: "```https://github.com/Pkdriller01/NEXUS-AI```"
+        text: "```https://github.com/horlapookie/NEXUS-AI```"
     } ,{ quoted: ms });// Voice note form
     }catch (e) {
         console.log("❌ Ping Command Error: " + e);
